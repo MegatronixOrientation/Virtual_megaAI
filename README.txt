@@ -1,8 +1,6 @@
-here python version 3.8.10 is used 
 
-cvzone version 1.5.0 is used 
-
-create a new virtual environment to install a different version of a library to be used..
+cvzone version 1.3.9 is used 
+pip install cvzone==1.3.9
 
 libraries used 
 opencv-python
@@ -10,7 +8,7 @@ mediapipe
 comtypes
 cvzone
 pycaw
-autopy 4.0.0
+wikipedia
+tkinter
 
-
-
+etc
